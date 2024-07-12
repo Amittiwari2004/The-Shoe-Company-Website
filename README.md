@@ -14,4 +14,4 @@ Modern and Clean UI: Inspired by a professional design, the website features a m
 Contact
 Your Name - Amit Tiwari
 Instagram -codewithamittiwari
-Gmail-amittiwari00512@gmail.com
+Mail - amittiwari00512@gmail.com
