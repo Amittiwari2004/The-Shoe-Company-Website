@@ -9,4 +9,9 @@ Features
 Responsive Design: The website is fully responsive and works seamlessly on different devices, including desktops, tablets, and mobile phones.
 Tailwind CSS: Utilizes the Tailwind CSS framework for a utility-first approach to styling, allowing for quick and efficient design implementation.
 Modern and Clean UI: Inspired by a professional design, the website features a modern and clean user interface.
-Getting Started
+
+
+Contact
+Your Name - Amit Tiwari
+Instagram -codewithamittiwari
+Gmail-amittiwari00512@gmail.com
